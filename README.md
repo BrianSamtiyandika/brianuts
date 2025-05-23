@@ -3,7 +3,7 @@
 ![alt text](https://github.com/BrianSamtiyandika/brianuts/blob/master/assets/Screenshot%20(3).png?raw=true)
 ![alt text](https://github.com/BrianSamtiyandika/brianuts/blob/master/assets/Screenshot%20(4).png?raw=true)
 ![alt text](https://github.com/BrianSamtiyandika/brianuts/blob/master/assets/Screenshot%20(5).png?raw=true)
-![alt text](?raw=true)
+![alt text](https://github.com/BrianSamtiyandika/brianuts/blob/master/assets/Screenshot%20(6).png?raw=true)
 # brian_app
 
 A new Flutter project.
