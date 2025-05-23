@@ -6,7 +6,10 @@
 ![alt text](https://github.com/BrianSamtiyandika/brianuts/blob/master/assets/Screenshot%20(6).png?raw=true)
 # brian_app
 
-A new Flutter project.
+- **Nama**         : Brian Samtiyandika
+- **NIM**          : 2022804058
+- **Prodi**        : Sistem Informasi
+- **Semester**     : 6
 
 ## Getting Started
 
